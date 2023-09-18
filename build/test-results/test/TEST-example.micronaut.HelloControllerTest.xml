@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.micronaut.HelloControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-15T12:19:52" hostname="DESKTOP-09ICCTK" time="0.743">
+  <properties/>
+  <testcase name="testHello()" classname="example.micronaut.HelloControllerTest" time="0.743"/>
+  <system-out><![CDATA[09:19:51.325 [Test worker] INFO  i.m.c.DefaultApplicationContext$RuntimeConfiguredEnvironment - Established active environments: [test]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
